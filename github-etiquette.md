@@ -1,4 +1,4 @@
-## Etiquette co nghia la nghi le  
+## Etiquette co nghia la nghi lễ  
 - Dung de quy dinh cac cach dat ten bla bla cac thu trong 1 folder / project  
 ## 1 số luật cơ bản:
 1. Keep file paths short and simple  
